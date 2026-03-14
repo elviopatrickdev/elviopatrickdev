@@ -71,6 +71,14 @@ Aberto a novas oportunidades e colaborações.
 />
 <img 
     align="left" 
+    alt="React.js" 
+    title="React.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
