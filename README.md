@@ -1,6 +1,6 @@
 # Elvio Patrick
 
-### 💻 Fullstack Developer | React | Javascript | PHP 
+### 💻 Fullstack Developer | React.js | Node.js | MongoDB
 
 Olá! Meu nome é Elvio Patrick e sou Fullstack Developer com formação avançada em Desenho e Programação de Websites. Desenvolvo aplicações web completas, atuando tanto no frontend quanto no backend, sempre focado em código limpo, boas práticas e soluções eficientes.
 
@@ -79,11 +79,27 @@ Aberto a novas oportunidades e colaborações.
 />
 <img 
     align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"     
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 <img 
     align="left" 
