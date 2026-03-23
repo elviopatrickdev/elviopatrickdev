@@ -1,12 +1,10 @@
 # Elvio Patrick
 
-### 💻 FullStack Developer | React.js | Node.js | MongoDB
+### 💻 Frontend React Developer | Fullstack MERN | CRUD, Dashboards & Auth | Aplicações Web Funcionais Online
 
-Olá! Meu nome é Elvio Patrick e sou Fullstack Developer com formação avançada em Desenho e Programação de Websites. Desenvolvo aplicações web completas, atuando tanto no frontend quanto no backend, sempre focado em código limpo, boas práticas e soluções eficientes.
+Olá! Meu nome é Elvio Patrick e sou Desenvolvedor Júnior focado em React e MERN Stack, com experiência em construir aplicações web completas, funcionais e acessíveis online, incluindo autenticação, CRUD e dashboards interativos.  
 
-Estou constantemente aprimorando minhas habilidades e explorando novas tecnologias para evoluir como desenvolvedor. Aqui no GitHub compartilho projetos que refletem meu aprendizado, prática e dedicação ao desenvolvimento web.
-
-Aberto a novas oportunidades e colaborações.
+Procuro minha primeira oportunidade profissional para aplicar minhas habilidades em frontend e fullstack, contribuir em projetos reais e evoluir rapidamente como developer.
 
 ---
 
