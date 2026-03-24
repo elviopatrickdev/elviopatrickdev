@@ -2,11 +2,11 @@
 
 ### 💻 Frontend React Developer | Fullstack MERN | CRUD & Auth | Aplicações Web Funcionais Online
 
-Frontend Developer com foco em React.js e experiência prática no desenvolvimento de aplicações web completas, desde a interface até à lógica de backend.
+Frontend Developer focado em React.js com experiência prática na construção de aplicações web completas com autenticação, dashboards e integração de APIs.
 
-Transitei da Engenharia Civil para a programação, trazendo uma forte capacidade analítica, pensamento estruturado e resolução de problemas complexos.
+Desenvolvi múltiplos projetos fullstack com JavaScript, React, Node.js, PHP e MySQL, incluindo plataformas com lógica de negócio real, gestão de dados e visualização interativa.
 
-Desenvolvi projetos fullstack utilizando JavaScript, React.js, Node.js, PHP, MongoDB e MySQL. Também tenho experiência em Figma para UI/UX e Blender 3D, o que me permite criar interfaces funcionais com preocupação estética e experiência do utilizador.
+Também tenho experiência em Figma para UI/UX e Blender 3D, o que me permite criar interfaces funcionais com preocupação estética e experiência do utilizador.
 
 Atualmente focado em aprofundar conhecimentos em React.js e Node.js, com o objetivo de contribuir para equipas que valorizem código limpo, boas práticas e soluções escaláveis.
 
