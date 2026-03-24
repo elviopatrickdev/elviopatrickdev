@@ -6,7 +6,7 @@ Frontend Developer com foco em React.js e experiência prática no desenvolvimen
 
 Transitei da Engenharia Civil para a programação, trazendo uma forte capacidade analítica, pensamento estruturado e resolução de problemas complexos.
 
-Desenvolvi projetos fullstack utilizando JavaScript, React, Node.js, PHP e MySQL, incluindo:<br>
+Desenvolvi projetos fullstack utilizando JavaScript, React.js, Node.js, PHP, MongoDB e MySQL, incluindo:<br>
 • Plataforma ITSM inspirada em ServiceNow com dashboard e visualização de dados<br>
 • Aplicação web com autenticação, gestão de utilizadores e sistema CRUD completo<br>
 • Website para empresa de construção com integração de APIs (Google Maps)
