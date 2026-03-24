@@ -2,9 +2,20 @@
 
 ### 💻 Frontend React Developer | Fullstack MERN | CRUD & Auth | Aplicações Web Funcionais Online
 
-Olá! Meu nome é Elvio Patrick e sou Desenvolvedor Júnior focado em React e MERN Stack, com experiência em construir aplicações web completas, funcionais e acessíveis online, incluindo autenticação, CRUD e dashboards interativos.  
+Frontend Developer com foco em React.js e experiência prática no desenvolvimento de aplicações web completas, desde a interface até à lógica de backend.
 
-Procuro minha primeira oportunidade profissional para aplicar minhas habilidades em frontend e fullstack, contribuir em projetos reais e evoluir rapidamente como developer.
+Transitei da Engenharia Civil para a programação, trazendo uma forte capacidade analítica, pensamento estruturado e resolução de problemas complexos.
+
+Desenvolvi projetos fullstack utilizando JavaScript, React, Node.js, PHP e MySQL, incluindo:
+• Plataforma ITSM inspirada em ServiceNow com dashboard e visualização de dados
+• Aplicação web com autenticação, gestão de utilizadores e sistema CRUD completo
+• Website para empresa de construção com integração de APIs (Google Maps)
+
+Tenho também experiência em Figma para UI/UX e Blender 3D, o que me permite criar interfaces funcionais com preocupação estética e experiência do utilizador.
+
+Atualmente focado em aprofundar conhecimentos em React.js e Node.js, com o objetivo de contribuir para equipas que valorizem código limpo, boas práticas e soluções escaláveis.
+
+Disponível para oportunidades remotas ou presenciais
 
 ---
 
