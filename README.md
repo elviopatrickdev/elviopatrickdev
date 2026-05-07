@@ -1,12 +1,12 @@
 # Elvio Patrick
 
-### 💻 Frontend Web Developer | React.js | Node.js | MongoDB
+### 💻 Fullstack Web Developer | React.js | Node.js | PHP | MySQL | MongoDB 
 
-Frontend Developer com foco em React.js, especializado na criação de interfaces modernas, responsivas e orientadas à melhor experiência do utilizador. Possuo experiência no desenvolvimento de aplicações completas, atuando também no backend com Node.js e integração com bases de dados como MongoDB.
+Fullstack Developer com foco em stacks MERN, especializado na criação de interfaces modernas, responsivas e orientadas à melhor experiência do utilizador. Possuo experiência no desenvolvimento de aplicações completas, atuando também no backend com Node.js e integração com bases de dados como MongoDB.
 
 Já desenvolvi sistemas com autenticação, operações CRUD e dashboards com métricas, sempre buscando código limpo, performance e boas práticas.
 
-Procuro uma oportunidade como Junior Developer com foco em frontend para contribuir com soluções eficientes e continuar a evoluir tecnicamente.
+Procuro uma oportunidade como Junior Developer com foco em frontend, backend ou fullstack para contribuir com soluções eficientes e continuar a evoluir tecnicamente.
 
 ---
 
